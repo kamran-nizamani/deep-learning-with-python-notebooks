@@ -7,6 +7,10 @@ and the [first edition (2017)](https://www.manning.com/books/deep-learning-with-
 For readability, these notebooks only contain runnable code blocks and section titles, and omit everything else in the book: text paragraphs, figures, and pseudocode.
 **If you want to be able to follow what's going on, I recommend reading the notebooks side by side with your copy of the book.**
 
+## Read online
+
+**[Open the notebook reader](https://kamran-nizamani.github.io/deep-learning-with-python-notebooks/)**: every code block from the third edition notebooks, one chapter per page, with copy buttons on each block, section and chapter, plus search across all code.
+
 ## Running the code
 
 We recommend running these notebooks on [Colab](https://colab.google), which
@@ -74,3 +78,4 @@ the relevant Kaggle code.
 * [Chapter 16: Text Generation](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter16_text-generation.ipynb)
 * [Chapter 17: Image Generation](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter17_image-generation.ipynb)
 * [Chapter 18: Best practices for the real world](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter18_best-practices-for-the-real-world.ipynb)
+* [Chapter 19 (bonus): Fine-tuning with Hugging Face](https://colab.research.google.com/github/kamran-nizamani/deep-learning-with-python-notebooks/blob/main/chapter19_fine-tuning-with-hugging-face.ipynb)
